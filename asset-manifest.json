@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.bc1db232.css",
-    "main.js": "/static/js/main.bdfc2213.js",
-    "static/js/377.8958ea6a.chunk.js": "/static/js/377.8958ea6a.chunk.js",
-    "static/media/forum.jpg": "/static/media/forum.51d01905c64aabcf6ea5.jpg",
-    "service-worker.js": "/service-worker.js",
-    "index.html": "/index.html",
-    "main.bc1db232.css.map": "/static/css/main.bc1db232.css.map",
-    "main.bdfc2213.js.map": "/static/js/main.bdfc2213.js.map",
-    "377.8958ea6a.chunk.js.map": "/static/js/377.8958ea6a.chunk.js.map"
+    "main.css": "/clubzen-iitk/static/css/main.bc896d03.css",
+    "main.js": "/clubzen-iitk/static/js/main.f28c9d59.js",
+    "static/js/377.8958ea6a.chunk.js": "/clubzen-iitk/static/js/377.8958ea6a.chunk.js",
+    "static/media/forum.jpg": "/clubzen-iitk/static/media/forum.51d01905c64aabcf6ea5.jpg",
+    "service-worker.js": "/clubzen-iitk/service-worker.js",
+    "index.html": "/clubzen-iitk/index.html",
+    "main.bc896d03.css.map": "/clubzen-iitk/static/css/main.bc896d03.css.map",
+    "main.f28c9d59.js.map": "/clubzen-iitk/static/js/main.f28c9d59.js.map",
+    "377.8958ea6a.chunk.js.map": "/clubzen-iitk/static/js/377.8958ea6a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc1db232.css",
-    "static/js/main.bdfc2213.js"
+    "static/css/main.bc896d03.css",
+    "static/js/main.f28c9d59.js"
   ]
 }
